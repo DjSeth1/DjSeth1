@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DjSeth1
+- 👋 Hi, I’m Divij
 
 <!---
 DjSeth1/DjSeth1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
